@@ -2,10 +2,10 @@
 This script automates the process of deleting liked videos on YouTube using browser console.
 
 ### Usage
-- Run the code snippet from [code.js](https://github.com/Vologin/YouTube-Liked-Videos-Deleter/blob/main/code.js) (Or copy and paste it from below) in your browser console while visiting your liked videos page
+- Run the code snippet from [code.js](https://github.com/po5ter/ekiL/blob/main/code.js) (Or copy and paste it from below) in your browser console while visiting your liked videos page
 - Sit back and relax as the script automates the process of deleting your liked videos on YouTube
 
-### Code from [code.js](https://github.com/Vologin/YouTube-Liked-Videos-Deleter/blob/main/code.js)
+### Code from [code.js](https://github.com/po5ter/ekiL/blob/main/code.js)
 
 ```js
 function sleep(ms) {
